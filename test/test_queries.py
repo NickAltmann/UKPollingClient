@@ -2,7 +2,7 @@ import os
 import unittest
 import datetime
 
-from polling_client.polling_client import PollingClient
+from pollingclient.client import PollingClient
 
 
 class TestQueries(unittest.TestCase):

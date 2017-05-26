@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='polling_client',
+setup(name='pollingclient',
       version='1.0',
       description='UK Polling Client',
       author='NicksTricks',

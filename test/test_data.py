@@ -1,7 +1,7 @@
 import os
 import unittest
 
-from polling_client.polling_client import PollingClient
+from pollingclient.client import PollingClient
 
 
 class TestData(unittest.TestCase):
