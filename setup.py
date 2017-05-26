@@ -5,6 +5,7 @@ setup(name='pollingclient',
       description='UK Polling Client',
       author='NicksTricks',
       author_email='nick@nickaltmann.net',
+      packages=['pollingclient'],
       install_requires=['pandas>=0.18.0',
-                        ]
-     )
+                        ],
+      )
