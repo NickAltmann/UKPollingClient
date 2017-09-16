@@ -6,7 +6,7 @@ import pandas as pd
 
 class PollingClient(object):
 
-    default_root = "https://ukpollingserver.scalingo.io/data/"
+    default_root = "http://www.nickstricks.net/polling/data/"
     local_root = "http://localhost:5000/data/"
 
     def __init__(self, url_root=None):
